@@ -1,4 +1,4 @@
-# Hi, I'm QuarterSalt! 👋
+# Hi, I'm Leif! 👋
 
 I'm a Computer Science student at CEGEP Heritage with a passion for hardware, OS's and low-level programming.  I'm currently learning more about ASM (NASM) to further develope my understanding of cinputer architechture and memory management
 
