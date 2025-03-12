@@ -13,8 +13,8 @@ I'm a Computer Science student at CEGEP Heritage with a passion for hardware, OS
 
 ## Projects
 
-*   **assembly-projects:** A collection of small assembly language projects. [Link to repo]
-*   **ComputerSciencec\_BGT\_Program:**  My coursework project from my data structures class. [Link to repo]
+*   **assembly-projects:** A collection of small assembly language projects. [Link to repo](https://github.com/QuarterSalt/assembly-projects)
+*   **ComputerSciencec\_BGT\_Program:**  My coursework project from my data structures class. [Link to repo](https://github.com/QuarterSalt/ComputerSciencec_BGT_Program)
 
 ## Let's Connect!
 
