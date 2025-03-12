@@ -9,7 +9,7 @@ I'm a Computer Science student at CEGEP Heritage with a passion for hardware, OS
 *   HTML / CSS
 *   JavaScript
 *   Git
-*   Assembly (NASM)
+*   Assembly (ASM) (NASM)
 
 ## Projects
 
