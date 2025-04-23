@@ -10,6 +10,7 @@ I'm a Computer Science student at CEGEP Heritage with a passion for hardware, OS
 *   JavaScript
 *   Git
 *   Assembly (ASM) (NASM)
+*   Linux (Ubuntu, Archlinux)
 
 ## Projects
 
